@@ -2,6 +2,8 @@
 
 This project is a simple demonstration of using React with React Three Fiber, TypeScript, and Vite for fast development and testing of 3D scenes in the browser.
 
+<img width="320" alt="Screenshot 2024-02-27 at 19 50 03" src="https://github.com/niris/R3F-test/assets/8372276/68e0c549-2dcc-44f8-995d-794aafe4e5bc">
+
 ## Installation
 
 - Install Node.js and npm
