@@ -1,0 +1,20 @@
+{
+  "name": "R3FTest",
+  "short_name": "R3FTest",
+  "icons": [
+    {
+      "src": "vite.png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
