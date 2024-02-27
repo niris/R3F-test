@@ -12,8 +12,9 @@ npm install
 ```
 
 # 3D Model requirements 
-- The model named `house_animated.glb` should be placed in `public/models`. 
-[Link to download the model] (https://www.cgtrader.com/free-3d-models/exterior/house/animated-house-for-game-animation-low-poly-cartoon-and-all)
+The model named `house_animated.glb` should be placed in `public/models`.
+  
+[Link to download the model](https://www.cgtrader.com/free-3d-models/exterior/house/animated-house-for-game-animation-low-poly-cartoon-and-all)
 
 
 ## Usage 
